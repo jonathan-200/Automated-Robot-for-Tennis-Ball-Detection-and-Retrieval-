@@ -1,4 +1,4 @@
-# Automated-Robot-for-Tennis-Ball-Detection-and-Retrieval-
+Automated Robot for Tennis Ball Detection and Retrieval-
 This collaborative project, completed with two fellow students from Arizona State University, involved the creation of a robot designed for ball retrieval in sports facilities.
 
 We began by purchasing a basic robot kit online, we proceeded to assemble the robot, utilizing a Raspberry Pi for control. We designed a cardboard end effector mechanism, powered by servomotors, to enable the robot to grasp the tennis ball.
